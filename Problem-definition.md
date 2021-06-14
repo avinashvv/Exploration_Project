@@ -11,7 +11,8 @@
 |3|should the machine be fixed or portable|portable?|o|
 |4|How much can it cost?|5500|c|
 |5|should the machine be user friendly?|yes|o|
-|6|
+|6|should the machine be automatic or manual?|semiautomatic|
+|7|
 
 
 
