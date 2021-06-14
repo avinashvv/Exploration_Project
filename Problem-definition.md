@@ -14,11 +14,11 @@
 |6|should the machine be automatic or manual?|semiautomatic|o|
 |7|what should be the range of diameter of balls|4-5cm|c|
 |8|Do you want signal after process completion|yes|o|
-|9|can we have size adjustable feature with machine|o|
+|9|can we have size adjustable feature with machine|yes|o|
 |10|how the balls are sorted|according to size|o|
 |11|do you want balls to be distributed to different sections according to their size|yes different sections should be made to collect he balls|f|
 |12|how to identify the size of balls|using sensors, size is identified|f|
-|13|should the machine pick and place the balls on its own?|yes,these should be performed on its own|f|
+|13|should the machine pick and place the balls on its own?|yes,these functions should be performed on its own|f|
 
 
 
