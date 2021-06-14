@@ -44,6 +44,11 @@ Identify the constraints
 |3.|cost of machine|
 |4.|diameter of balls|
 
+# problem definition version 1.2
+design a  ball sorting machine based on size which is user friendly in nature,semi-automatic,easily portable,of adjustable size,weight of machine is 1.5kg,dimensions of machine are (3,4,5) ,it should cost 5500 and it should be able to sort balls of diameter 4-5cm
+
+
+
 
 
 
