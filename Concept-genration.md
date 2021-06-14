@@ -8,3 +8,7 @@
 |5|separating the balls|
 |6|grip the balls|
 |7|distribution of balls into different sections|
+
+
+# Function tree
+
