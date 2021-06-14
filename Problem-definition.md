@@ -29,6 +29,7 @@
 |5.| sorting according to size|
 
 # problem definition versio n1.1
+design a machine which is user friendly,semi-automatic,portable,of adjustable size and sort accordind to size
 
 
 
