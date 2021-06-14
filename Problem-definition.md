@@ -19,7 +19,7 @@
 |11|do you want balls to be distributed to different sections according to their size|yes different sections should be made to collect he balls|f|
 |12|how to identify the size of balls|using sensors, size is identified|f|
 |13|should the machine pick and place the balls on its own?|yes,these functions should be performed on its own|f|
-
+Identify the objectives
 |sl no|objectives|
 |-----|----------|
 |1.| portable|
@@ -28,8 +28,19 @@
 |4.| size adjustable|
 |5.| sorting according to size|
 
-# problem definition versio n1.1
-design a machine which is user friendly,semi-automatic,portable,of adjustable size and sort accordind to size
+# problem definition version 1.1
+design a  ball sorting machine based on size which is user friendly in nature,semi-automatic,easily portable,of adjustable size 
+Identify the constraints
+|sl no|constraints|
+|-----|-----------|
+|1.|weight of machine|
+|2.|dimensions of machine|
+|3.|cost of machine|
+|4.|diameter of balls|
+
+
+
+
 
 
 
