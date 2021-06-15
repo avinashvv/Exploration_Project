@@ -1,3 +1,3 @@
 # AUTOMATIC BALL SORTING MACHINE
 ## Ball sorting machine
-   The ma
+   The machine which
