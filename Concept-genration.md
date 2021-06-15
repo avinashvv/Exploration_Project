@@ -32,7 +32,7 @@
 |1|Ball picking device|Triangular plane	|Container	|Mechanical picker|	Triangular plane|
 |2|Ball placing device|conveyor belt	|Mechanical arm	|Triangular plane	|Container|
 |3|Scanning ball|Infrared sensor	|Ultrasonic sensor	|Ultrasonic sensor	|Infrared sensor|
-|4|Idication for progress|LED Idicator|	Speaker	|Buzzer	|Buzzer|
+|4|Indication for progress|LED Idicator|	Speaker	|Buzzer	|Buzzer|
 |5|Ball collection|In chambers |In chambers	|In chambers	|Container|	Container|
 
 
