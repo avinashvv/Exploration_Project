@@ -1,5 +1,5 @@
 # Item sorting machine
-## An industry in Hubballi is looking for a sorting machine that sorts the items based on shape, size, and material type etc.
+**An industry in Hubballi is looking for a sorting machine that sorts the items based on shape, size, and material type etc.**
 
 
 
