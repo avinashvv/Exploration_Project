@@ -1,6 +1,6 @@
 ## BOM
 |Sl.NO|Part name|Description of material|Quantity required|
-|------|--------|---------------------|---------|
+|------|--------|-------------|---------|
 |1|Container|Acrylic sheet:Made in as a funnel with upper Diameter 10cm and lower diameter 5cm|1 piece|
 |2|Conveyor belt|Rubber sheet:Made of small circular fillet between the belt placed 1cm from each fillet|1 piece|
 |3|Stepper Motor|             |2 piece|
