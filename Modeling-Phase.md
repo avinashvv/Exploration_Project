@@ -12,6 +12,10 @@
 ## Flowchart
 ![](https://i.ibb.co/W2V51vj/Untitled-Diagram.jpg)
 
+
+## 3D Model
+![](https://i.ibb.co/mydjWQk/Untitled.png)
+
 ## Circuit Implimentation
 ![](https://i.ibb.co/rZCYXsZ/think.png)
 
